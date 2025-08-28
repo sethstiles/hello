@@ -12,6 +12,8 @@
 
 
  int main(int argc, char const *argv[]) {
-    printf("Seth Stiles\n");
+    printf("Seth Stiles!\n");
+
+    printf("My major is Computer Science. This is my second degree. My first was in Education.\n");
 
  }
